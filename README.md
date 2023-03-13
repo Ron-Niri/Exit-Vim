@@ -7,7 +7,7 @@ But wait, there's more! Our project also includes a handy image that you can use
 
 So if you're ready to say goodbye to the endless maze of Vim and hello to freedom, join the Exit Vim community today. We promise to make your Vim struggles a thing of the past (or at least provide a good laugh along the way). 
 
-So fear not, my friend! I'm here to help you navigate your way out of this treacherous editor with a few easy steps.
+Fear not, my friend! I'm here to help you navigate your way out of this treacherous editor with a few easy steps.
 
 
 ## No JOKE!
