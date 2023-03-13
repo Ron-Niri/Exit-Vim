@@ -37,3 +37,5 @@ If you're still stuck in Vim and feeling hopeless, it's time to call for help. D
 So there you have it, folks! With these simple steps, you can conquer the ultimate challenge of exiting Vim. Don't let this editor intimidate you any longer, you are in control! Now go forth and conquer!
 
 
+![:wq!](https://user-images.githubusercontent.com/121397617/224789210-51322125-6d15-4e4f-bd3c-9ad0faba586b.png)
+
