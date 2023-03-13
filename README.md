@@ -1,4 +1,4 @@
-# How to Exit Vim (aka The Ultimate Challenge)
+# Exit Vim (aka The Ultimate Challenge)
 Are you tired of being trapped in Vim? Do you feel like you're in a never-ending maze with no way out? Fear not, my friend! I'm here to help you navigate your way out of this treacherous editor with a few easy steps.
 
 ## No JOKE!
