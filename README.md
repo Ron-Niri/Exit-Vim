@@ -39,3 +39,5 @@ So there you have it, folks! With these simple steps, you can conquer the ultima
 
 ![:wq!](https://user-images.githubusercontent.com/121397617/224789210-51322125-6d15-4e4f-bd3c-9ad0faba586b.png)
 
+# Disclaimer
+The end-user is solely responsible for utilizing the project and its resources. The developers bear no liability and cannot be held accountable for any harm or misuse resulting from the use of the project. It should be noted that certain actions may be unlawful, and this software cannot be employed to test individuals or organizations without obtaining written consent.
