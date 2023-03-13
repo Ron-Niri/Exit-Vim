@@ -20,9 +20,11 @@ If for some reason :q! doesn't work (and trust me, it happens to the best of us)
 ### Step 5: If all else fails, use a flamethrower
 If none of the above steps work, it's time to bring out the big guns. Grab your flamethrower and burn your computer to the ground. Okay, I'm just kidding, don't actually do that. Instead, try hitting your keyboard with a rubber chicken or doing a rain dance while chanting "I will exit Vim." Who knows, it might just work!
 
+![KILL VIM](https://github.com/R0nN1ri/Exit-Vim/blob/main/image2.jpg?raw=true "KILL VIM")
+
 ### Step 6: Still stuck? Call for Help!
 If you're still stuck in Vim and feeling hopeless, it's time to call for help. Don't be ashamed, we've all been there. Reach out to your tech-savvy friend or post on a forum for assistance. Remember, you're never alone in your Vim struggles.
 
 So there you have it, folks! With these simple steps, you can conquer the ultimate challenge of exiting Vim. Don't let this editor intimidate you any longer, you are in control! Now go forth and conquer!
 
-![Exit Vim = ∞IQ](https://github.com/R0nN1ri/Exit-Vim/blob/main/image2.jpg?raw=true "Exit Vim = ∞IQ")
+
