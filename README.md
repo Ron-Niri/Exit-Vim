@@ -13,7 +13,7 @@ The first thing you need to do is get out of insert mode. To do this, press the 
 Now that you're back in command mode, type :q!. This command will exit Vim without saving any changes you may have made to the file. This is the ultimate "get me out of here" command.
 
 ### Step 4: If that doesn't work, try :wq!
-If for some reason :q! doesn't work (and trust us, it happens to the best of us), try :wq!. This command saves your changes and then exits Vim.
+If for some reason :q! doesn't work (and trust me, it happens to the best of us), try :wq!. This command saves your changes and then exits Vim.
 
 ### Step 5: If all else fails, use a flamethrower
 If none of the above steps work, it's time to bring out the big guns. Grab your flamethrower and burn your computer to the ground. Okay, I'm just kidding, don't actually do that. Instead, try hitting your keyboard with a rubber chicken or doing a rain dance while chanting "I will exit Vim." Who knows, it might just work!
