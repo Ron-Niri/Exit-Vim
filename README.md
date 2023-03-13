@@ -1,9 +1,11 @@
 # How to Exit Vim (aka The Ultimate Challenge)
 Are you tired of being trapped in Vim? Do you feel like you're in a never-ending maze with no way out? Fear not, my friend! I'm here to help you navigate your way out of this treacherous editor with a few easy steps.
 
+## No JOKE!
 ### Step 1: Take a Deep Breath
 First things first, don't panic! Vim is just a text editor, and you are in control. Take a deep breath, and let's get started.
 
+## Let's Start!
 ### Step 2: Press Esc
 The first thing you need to do is get out of insert mode. To do this, press the Esc key. This will take you back to command mode, where you can enter commands.
 
